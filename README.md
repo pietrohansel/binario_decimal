@@ -1,40 +1,17 @@
 
-# Bin - Dec 
+# Binário para Decimal 
 
 Um **conversor de números binários** para **números decimais.**
 
 Este projeto foi desenvolvido como um exercício para **praticar lógica de programação,**
 conversão de bases numéricas e **desenvolvimento web**.
 
----
+* HTML, CSS, Javascript e Python
 
-## 🚀 Demonstração
+
+## Demonstração
 
 Acesse a versão online:
 
-[BinDec](https://pietrohansel.github.io/bin-dec/)
+https://pietrohansel.github.io/binario_decimal/
 
----
-
-## 🛠️ Tecnologias
-
-* HTML
-* CSS
-* JavaScript
-* Python
-
----
-
-## 📂 Estrutura do projeto
-
-```
-bin-dec/
-├── index.html
-├── style.css
-├── script.js
-├── python/
-│   └── main.py
-└── README.md
-```
-
----
